@@ -8,40 +8,48 @@ Responde con tus propias palabras.
 
 1. ¿Qué es JavaScript?
 
-Respuesta: Es un programa 
+Respuesta: Es un lenguaje de programación que permite agregarle interactividad a una pagina web 
 
 2. ¿Qué permite hacer Node.js en esta clase?
 
-Respuesta:
+Respuesta: Nos permite ejecurtar codigos de JavaScript fuera del navegador, directamente en la terminal 
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 
-Respuesta:
+Respuesta: Permite ejecutar el programa escrito en javascript en la terminal mostrando el resultado de las operaciones 
 
 4. ¿Qué es una variable?
 
-Respuesta:
+Respuesta: Es un espacio en la memoria del computador donde se guarda un valor que puede cambiar en el programa.
 
 5. ¿Para qué se usa const?
 
-Respuesta:
+Respuesta: Se usa para variables cuyo valor no cambia durante el programa 
 
 6. ¿Para qué se usa let?
 
-Respuesta:
+Respuesta: let se usa para variables cuyo valor si se puede cambiar durante el programa 
 
 7. ¿Qué significa if?
 
-Respuesta:
+Respuesta: if significa sí es una variable que se usa para valores que si pueden cambiar durante el programa 
 
 8. ¿Qué significa else?
 
-Respuesta:
+Respuesta: else significa <si no> se usa cuando la variable o condición de if no se cumple 
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
-Respuesta:
+Respuesta: Porque en ambas necesitamos evaluar las condiciones antes de actuar:
+en programación se usa if despues de decidir que hacer con los datos;en internet
+antes de compartir información nosostros evaluamos si es verdadera, util y no dañina.
+En sintesis, en ambos casos nosotros verificamos las condiciones para tomar una buena 
+decisión.
 
 10. ¿Cómo se relaciona este ejercicio con la verificación de información?
 
-Respuesta:
+Respuesta: Así como en programación  nosotros utilizamos if y else para verificar 
+las condiciones del programa debemos verificar la información antes de compartirla 
+si la información es verdadera nosotros la compartimos pero si es falsa  lo emjor es no compartirla 
+o buscar mas fuentes para estar mas seguros. La verificación responsable es un filtro 
+que nos permite saber si la información es confiable para compartir.
