@@ -1,12 +1,12 @@
-const propuesta = "Mejorar la comunicación del barrio"
-let tieneLenguajeClaro = true
-let pideDatosNecesarios = true
+const propuesta = " La comunidad usara la información ?"
+let lainformaciónfueaprobada = true
+let lainformacónserapublicada = true
 
-console.log("Revisión de propuesta comunitaria")
-console.log("Propuesta:", propuesta)
+console.log("Información por publicar en la pagina:")
+console.log("Información:", propuesta)
 
-if (tieneLenguajeClaro === true && pideDatosNecesarios === true) {
-  console.log("La propuesta está lista para ser compartida con la comunidad.")
+if (lainformaciónfueaprobada === true && lainformacónserapublicada === true) {
+  console.log("La información puede compartirse con la comunidad.")
 } else {
-  console.log("La propuesta debe revisarse antes de compartirse.")
+  console.log("La información debe revisarse antes de compartirse.")
 }

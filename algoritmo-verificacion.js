@@ -1,11 +1,11 @@
 const fuente = "confiable"
-let informacionVerificada = true
+let informacionverificadaporfuentesyterceros= true
 
 console.log("Algoritmo de verificación de información")
 console.log("Fuente revisada:", fuente)
-console.log("¿La información fue verificada?", informacionVerificada)
+console.log("¿La información fue verificada?", informacionverificadaporfuentesyterceros)
 
-if (informacionVerificada === true) {
+if (informacionverificadaporfuentesyterceros === true) {
   console.log("La información puede compartirse con responsabilidad.")
 } else {
   console.log("La información no debe compartirse todavía.")
